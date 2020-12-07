@@ -6,5 +6,7 @@ This application allows users to sort an employee user database by column header
 Technologies Used:
 React.js, JavaScript, Node.js, CSS
 
+To Run - Please use the "Application" directory.
+
 
 
